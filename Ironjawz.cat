@@ -1350,6 +1350,9 @@
       <costs>
         <cost name="pts" typeId="points" value="250"/>
       </costs>
+      <categoryLinks>
+        <categoryLink targetId="d1f3-921c-b403-1106" id="64a5-01f7-7ede-6547" primary="true" name="Regimental Leader"/>
+      </categoryLinks>
     </entryLink>
   </entryLinks>
   <categoryEntries>
